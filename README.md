@@ -1,2 +1,2 @@
-# PianoApp
+# Piano App
 Flutter App (Learning)
